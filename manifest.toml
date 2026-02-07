@@ -14,6 +14,7 @@ maintainers = ["eric_G"]
 [upstream]
 license = "BSD-2-Clause"
 website = "https://pocket-id.org/"
+demo = "https://demo.pocket-id.org/"
 admindoc = "https://pocket-id.org/docs"
 code = "https://github.com/pocket-id/pocket-id"
 
@@ -52,7 +53,7 @@ ram.runtime = "50M"
     arm64.sha256 = "00c51ae14a90f22b3d8669c956d174706dd6c992270d39899c8a10b2f6a8eab5"
     armhf.url = "https://github.com/pocket-id/pocket-id/releases/download/v2.2.0/pocket-id-linux-armv7"
     armhf.url = "b976478ce84776ce895f22a81c6a8fc875160cf8a76e9e953bae74a31e2c2181"
-    
+
     autoupdate.strategy = "latest_github_release"
 
     [resources.system_user]
