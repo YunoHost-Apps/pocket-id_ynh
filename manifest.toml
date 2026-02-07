@@ -65,3 +65,9 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.ports]
+
+    [resources.apt]
+    packages = "postgresql"
+
+    [resources.database]
+    type = "postgresql"
