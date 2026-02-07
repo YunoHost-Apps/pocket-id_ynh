@@ -1,0 +1,1 @@
+To set up the initial passkey for the admin user, navigate to: https://__DOMAIN__setup
