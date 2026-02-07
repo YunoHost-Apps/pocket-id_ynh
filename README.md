@@ -11,6 +11,7 @@ It shall NOT be edited by hand.
 Easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services
 
 [![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://pocket-id.org/)
+[![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://demo.pocket-id.org/)
 [![Version: 2.2.0~ynh1](https://img.shields.io/badge/Version-2.2.0~ynh1-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/pocket-id/)
 
 <div align="center">
