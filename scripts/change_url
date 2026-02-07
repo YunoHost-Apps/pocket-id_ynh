@@ -6,8 +6,6 @@
 
 source /usr/share/yunohost/helpers
 
-key=$(ynh_string_random --length=32)
-
 #=================================================
 # STOP SYSTEMD SERVICE
 #=================================================
