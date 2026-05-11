@@ -12,7 +12,7 @@ Easy-to-use OIDC provider that allows users to authenticate with their passkeys 
 
 [![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://pocket-id.org/)
 [![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://demo.pocket-id.org/)
-[![Version: 2.6.2~ynh1](https://img.shields.io/badge/Version-2.6.2~ynh1-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/pocket-id/)
+[![Version: 2.7.0~ynh1](https://img.shields.io/badge/Version-2.7.0~ynh1-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/pocket-id/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/pocket-id"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
