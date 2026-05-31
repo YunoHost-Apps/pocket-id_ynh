@@ -7,7 +7,7 @@ name = "Pocket-ID"
 description.en = "Easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services"
 description.fr = "Fournisseur OIDC simple qui permet aux utilisateurs de s'authentifier auprès de vos services à l'aide de leurs clés d'accès"
 
-version = "2.7.0~ynh1"
+version = "2.8.0~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -47,12 +47,12 @@ ram.runtime = "50M"
     rename = "pocket-id"
     in_subdir = false
     extract = false
-    amd64.url = "https://github.com/pocket-id/pocket-id/releases/download/v2.7.0/pocket-id-linux-amd64"
-    amd64.sha256 = "97e8ee3f7f7d9a0ff77851f3e796138a12e3ff5224e3ba033560e48c84df2630"
-    arm64.url = "https://github.com/pocket-id/pocket-id/releases/download/v2.7.0/pocket-id-linux-arm64"
-    arm64.sha256 = "9bb6270f7de0bcbab3f80d8c799b055b04066eec92dd0e551b888c6a0dc1b454"
-    armhf.url = "https://github.com/pocket-id/pocket-id/releases/download/v2.7.0/pocket-id-linux-armv7"
-    armhf.sha256 = "9acf86b212aacf44add844f8e12d40f47cf0d8be78885c9113b1b1e1d9094503"
+    amd64.url = "https://github.com/pocket-id/pocket-id/releases/download/v2.8.0/pocket-id-linux-amd64"
+    amd64.sha256 = "e5cdfbba62aa22b511d4de3001b03129c5fac48d5ef583b40152dfae81dc7b62"
+    arm64.url = "https://github.com/pocket-id/pocket-id/releases/download/v2.8.0/pocket-id-linux-arm64"
+    arm64.sha256 = "25a6c2f69aacd5a1f789d41204c0be8fca6445ae6062cfe926f78d9437755e21"
+    armhf.url = "https://github.com/pocket-id/pocket-id/releases/download/v2.8.0/pocket-id-linux-armv7"
+    armhf.sha256 = "065aa6a058745b1c66586383737abd96fbcdd0218858be96164e2972f7bfb364"
 
     autoupdate.strategy = "latest_github_release"
     autoupdate.asset.amd64 = "^pocket-id-linux-amd64$"
