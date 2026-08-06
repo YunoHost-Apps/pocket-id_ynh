@@ -55,9 +55,9 @@ ram.runtime = "50M"
     armhf.sha256 = "2f6deb9d4f8981c88a41f5b38f1f1d79ed11f6fa33439db443240159dafb4b26"
 
     autoupdate.strategy = "latest_github_release"
-    autoupdate.asset.amd64 = "^pocket-id-linux-amd64$"
-    autoupdate.asset.arm64 = "^pocket-id-linux-arm64$"
-    autoupdate.asset.armhf = "^pocket-id-linux-armv7$"
+    autoupdate.asset.amd64 = "^pocket-id_linux_amd64$"
+    autoupdate.asset.arm64 = "^pocket-id_linux_arm64$"
+    autoupdate.asset.armhf = "^pocket-id_linux_armv7$"
 
     [resources.system_user]
     allow_email = true
